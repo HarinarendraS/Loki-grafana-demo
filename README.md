@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Carnivorous Green House
 
 ![Carnivorous Green House](./static/index_image.png)
@@ -68,3 +69,6 @@ Please ensure that your code follows the project's coding conventions and includ
 
 
 
+=======
+# Loki-grafana-demo
+>>>>>>> e06888cbe911bcfcfb9a367134e6dfd4a37be2a0
